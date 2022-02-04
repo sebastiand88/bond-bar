@@ -1,10 +1,11 @@
 .app__navbar {
+  position: fixed;
   width: 100%;
   display: flex;
   justify-content: space-between;
   align-items: center;
   background: var(--color-black);
-
+  border-bottom: 1px solid var(--color-golden);
   padding: 1rem 2rem;
 }
 

@@ -62,9 +62,16 @@
   font-size: 16px;
   padding: 0.5rem 1.5rem;
   border-radius: 1px;
-  border: none;
+  border: 1px solid var(--color-golden);
   outline: none;
   cursor: pointer;
+}
+
+.custom__button:hover {
+  background-color: var(--color-black);
+  color: var(--color-golden);
+  border: 1px solid var(--color-golden);
+  transition: 0.5s ease;
 }
 
 .p__cormorant {
