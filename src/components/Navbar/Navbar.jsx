@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { GiHamburgerMenu } from "react-icons/gi";
 import { AiOutlineClose } from "react-icons/ai";
 
-import images from "../../constants/images";
+import bondbar from "../../assets/bondbar.png";
 
 import "./Navbar.css";
 
@@ -11,7 +11,7 @@ const Navbar = () => {
   return (
     <nav className="app__navbar">
       <div className="app__navbar-logo">
-        <img src={images.bondbar} alt="app logo" />
+        <img src={bondbar} alt="app logo" />
       </div>
       <ul className="app__navbar-links">
         <li className="p__opensans">
