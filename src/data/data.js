@@ -59,4 +59,9 @@ const classicCocktails = [
   },
 ];
 
-export default { twistCocktails, classicCocktails };
+const data = {
+  twistCocktails,
+  classicCocktails,
+};
+
+export default data;
