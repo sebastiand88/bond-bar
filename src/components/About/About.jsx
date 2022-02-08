@@ -18,12 +18,13 @@ const About = () => {
           <h1 className="headtext__cormorant">About Us</h1>
           <FaCocktail size={32} style={{ color: "var(--color-golden)" }} />
           <p className="p__opensans">
-            Aenean non iaculis elit. Etiam ultrices commodo orci nec fermentum.
-            Aliquam facilisis malesuada sapien, vel consectetur massa auctor
-            vel. Duis turpis sem, interdum eget gravida sed, fringilla a sem.
-            Sed ut justo non erat vehicula euismod. Aenean leo nulla, cursus
-            quis urna at, gravida eleifend nisl. Aenean mattis a justo sed
-            lacinia.
+            Stepping into Bond Bar feels a little like entering another world.
+            Elegant, yet effortless. Set apart from the bustle of Glasgow, yet
+            immersed in its culture. Dedicated to fine art, as well as the finer
+            things in life. Every guest receives our world-famous levels of
+            service. Forget about everything for a second and take in your
+            surroundings. As you ascend the historic staircase, let Bond Bar
+            work its magic. Your wish is our command.
           </p>
           <button type="button" className="custom__button">
             Learn More
@@ -38,12 +39,13 @@ const About = () => {
           <h1 className="headtext__cormorant">Our History</h1>
           <FaCocktail size={32} style={{ color: "var(--color-golden)" }} />
           <p className="p__opensans">
-            Aenean non iaculis elit. Etiam ultrices commodo orci nec fermentum.
-            Aliquam facilisis malesuada sapien, vel consectetur massa auctor
-            vel. Duis turpis sem, interdum eget gravida sed, fringilla a sem.
-            Sed ut justo non erat vehicula euismod. Aenean leo nulla, cursus
-            quis urna at, gravida eleifend nisl. Aenean mattis a justo sed
-            lacinia.
+            We are known for our Classic Martini. <br />A cocktail this iconic
+            deserves some ceremony. At Bond Bar, our Martini Trolley is set with
+            the makings of the perfect martini. Will it be dirty, a twist or
+            subtly infused with flavour? but before you savour that first sip,
+            take in the surroundings. <br />
+            Cheers! <br />
+            Decisions, decisions…
           </p>
           <button type="button" className="custom__button">
             Learn More
